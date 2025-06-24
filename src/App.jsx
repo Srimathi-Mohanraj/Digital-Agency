@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import BrandLogo from "./components/BrandLogo/BrandLogo";
 import Services from "./components/Services/Services";
-import Testmonials from "./components/testmonials/Testmonials";
+import Testmonials from "./components/Testmonials/Testmonials";
 import Blogcomp from "./components/Blogcomp/Blogcomp";
 import Footer from "./components/Footer/Footer";
 
